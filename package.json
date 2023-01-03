@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minimist": "^1.2.7",
+    "openurl": "^1.1.1"
+  }
+}
